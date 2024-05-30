@@ -28,4 +28,4 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), pude elaborar
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
 ### meu Diagrama UML (LucidChart)
-https://lucid.app/lucidchart/0119f599-ec6d-4ffa-8516-f72653b3ea7f/edit?viewport_loc=-2911%2C-1345%2C6536%2C2937%2C0_0&invitationId=inv_752435c4-6628-4118-bb9d-30b925b69826
+[LucidChart](https://lucid.app/lucidchart/0119f599-ec6d-4ffa-8516-f72653b3ea7f/edit?viewport_loc=-2911%2C-1345%2C6536%2C2937%2C0_0&invitationId=inv_752435c4-6628-4118-bb9d-30b925b69826)
